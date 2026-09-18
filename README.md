@@ -2,7 +2,7 @@
 
 Want to know more about my academic background, projects and professional experience?
 
-👉 **[Check out my full CV here](assets/CV - Pierre Cointre.pdf.pdf)**
+👉 **[Check out my full CV here](assets/CV_COINTRE.pdf)**
 
 ---
 
