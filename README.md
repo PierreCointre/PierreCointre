@@ -10,8 +10,6 @@ Want to know more about my academic background, projects and professional experi
 
 🎓 **IT Engineering Student** at **Polytech Tours – École polytechnique de l'Université de Tours**, currently pursuing an engineering degree in Computer Science.
 
-I am looking for a **14 to 16-week internship in the IT field starting in April 2027**, with the goal of developing my technical skills and gaining professional experience.
-
 ### 💻 Technical Skills
 
 * **Programming:** C, C++, Java, Python
