@@ -11,10 +11,7 @@ IT Engineering Student at Polytech Tours. Focused on software engineering, netwo
 
 ## Featured Projects
 
-* **[Java-Network-App](https://github.com/PierreCointre/Java-Network-App)** - Client-server application utilizing Java Socket and ServerSocket communications for real-time data exchange.
-* **[Interactive-Web-App](https://github.com/PierreCointre/Interactive-Web-App)** - Frontend interface built with advanced CSS Grid properties and pure JavaScript DOM manipulation, backed by a MySQL database.
-* **[C-System-Utility](https://github.com/PierreCointre/C-System-Utility)** - Low-level software engineering project focused on memory management and algorithmic efficiency in C/C++.
-
-## Currently Working On
-
-* **[Python-API-Service](https://github.com/PierreCointre/Python-API-Service)** - Developing a backend service using Python to consolidate software design and data architecture skills.
+* **[Time-Clock](https://github.com/PierreCointre/Time-Clock)** - Client-server application utilizing Java Socket and ServerSocket communications for real-time data exchange.
+* **[Graph-Library](https://github.com/PierreCointre/Graph-Library)** - A C++ library for creating, manipulating and saving directed and undirected graphs.
+* **[Polic](https://github.com/PierreCointre/Polic)** - Engineered a highly configurable Connect 4 application, integrating a Tkinter GUI and a Minimax algorithm optimized via multiprocessing for enhanced performance.
+* **[Chip8-Emulator](https://github.com/PierreCointre/chip8-emulator)** - LCHIP-8 emulator developed in C, using SDL2 to handle graphics, input and emulation.
