@@ -1,38 +1,20 @@
-## 📄 My Resume
+# Pierre Cointre
 
-Want to know more about my academic background, projects and professional experience?
+IT Engineering Student at Polytech Tours. Focused on software engineering, network programming, and building robust applications.
 
-👉 **[Check out my full CV here](CV_COINTRE.pdf)**
+## Technical Stack
 
----
+* **Languages:** C, C++, Java, Python
+* **Web & Database:** HTML, CSS, JavaScript, MySQL
+* **Architecture:** Software Design, System Architecture, Network Sockets
+* **Tools:** Git, GitHub
 
-## 👨‍💻 About Me
+## Featured Projects
 
-🎓 **IT Engineering Student** at **Polytech Tours – École polytechnique de l'Université de Tours**, currently pursuing an engineering degree in Computer Science.
+* **[Java-Network-App](https://github.com/PierreCointre/Java-Network-App)** - Client-server application utilizing Java Socket and ServerSocket communications for real-time data exchange.
+* **[Interactive-Web-App](https://github.com/PierreCointre/Interactive-Web-App)** - Frontend interface built with advanced CSS Grid properties and pure JavaScript DOM manipulation, backed by a MySQL database.
+* **[C-System-Utility](https://github.com/PierreCointre/C-System-Utility)** - Low-level software engineering project focused on memory management and algorithmic efficiency in C/C++.
 
-### 💻 Technical Skills
+## Currently Working On
 
-* **Programming:** C, C++, Java, Python
-* **Web Development:** HTML, CSS
-* **Database:** MySQL
-* **Tools:** GitHub, Microsoft Office
-* **Software Engineering:** Software design, software engineering and project management
-
-### 🌍 Languages
-
-* 🇬🇧 **English:** Fluent
-* 🇩🇪 **German:** A2
-
-### ⚽ Interests
-
-* ⚽ **Football:** Elite level — 10 years of experience, playing as a winger and left-back
-* 🎿 **Skiing:** Third-star level
-* 💡 **Mini-Enterprise:** Participation in a school project focused on local produce baskets
-
----
-
-## 🎯 Career Objective
-
-I am looking for opportunities that allow me to apply my programming and software engineering skills while continuing to learn and develop my knowledge in the IT field.
-
-I am particularly interested in gaining practical experience through challenging projects and discovering the professional world of software development.
+* **[Python-API-Service](https://github.com/PierreCointre/Python-API-Service)** - Developing a backend service using Python to consolidate software design and data architecture skills.
